@@ -1,0 +1,1 @@
+install-windowsfeature -name web-server -includemanagementtools
